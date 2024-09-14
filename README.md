@@ -15,6 +15,7 @@ experimental data.
 </div>  
 
 
+
 ## Research Interests
 <div style="text-align: justify; width: 100%;">
 - Computational Neuroscience: Neural networks, biophysical modeling, synaptic 
@@ -23,6 +24,8 @@ plasticity, visual processing.
 machine learning.
 - Neurophysiological Data Analysis: EEG, fMRI, fNIRS, handwriting kinematics.
 </div>
+
+
 
 ## Technical Skills
 - __Programming Languages:__ Python, C++, MATLAB
