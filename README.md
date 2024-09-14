@@ -11,8 +11,8 @@ Eye Research (ICTER) with a focus on retina modeling and cortical column studies
 combining computational techniques with biological data to understand neural mechanisms 
 underlying sensory processing and synaptic plasticity. Proficient in Python, C++, MATLAB, and  
 various neuroscience simulation tools, with a passion for bridging computational models with 
-experimental data.
-</div>  
+experimental data.</div>
+
 ## Research Interests
 <div style="text-align: justify; width: 100%;">
 - Computational Neuroscience: Neural networks, biophysical modeling, synaptic 
