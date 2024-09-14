@@ -14,13 +14,13 @@ various neuroscience simulation tools, with a passion for bridging computational
 experimental data.
 </div>
 <h2 style="margin-top: 30px;">Research Interests</h2>
-<div style="text-align: justify; width: 100%;">
+
 - __Computational Neuroscience:__ Neural networks, biophysical modeling, synaptic 
 plasticity, visual processing.
 - __Mathematical Modeling:__ Dynamical systems, chaos theory, signal processing, and 
 machine learning.
 - __Neurophysiological Data Analysis:__ EEG, fMRI, fNIRS, handwriting kinematics.
-</div>
+
 
 ## Technical Skills
 - __Programming Languages:__ Python, C++, MATLAB
