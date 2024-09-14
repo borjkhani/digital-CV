@@ -6,7 +6,7 @@ Email: mborjkhani@ichf.edu.pl | borjkhani@gmail.com
 Location: Warsaw, Poland
 
 # Professional Summary
-<div style="text-align: justify; width: 80%;">
+<div style="text-align: justify; width: 100%;">
 A computational neuroscientist with extensive experience in biophysical modeling, mathematical .<br>
 analysis, and neural networks. Currently researching at the International Center for Translational .<br>
 Eye Research (ICTER) with a focus on retina modeling and cortical column studies. Expertise in .<br>
