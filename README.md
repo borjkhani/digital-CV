@@ -13,6 +13,7 @@ underlying sensory processing and synaptic plasticity. Proficient in Python, C++
 various neuroscience simulation tools, with a passion for bridging computational models with 
 experimental data.</div>
 
+
 ## Research Interests
 <div style="text-align: justify; width: 100%;">
 - Computational Neuroscience: Neural networks, biophysical modeling, synaptic 
