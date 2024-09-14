@@ -13,9 +13,6 @@ underlying sensory processing and synaptic plasticity. Proficient in Python, C++
 various neuroscience simulation tools, with a passion for bridging computational models with 
 experimental data.
 </div>  
-
-
-
 ## Research Interests
 <div style="text-align: justify; width: 100%;">
 - Computational Neuroscience: Neural networks, biophysical modeling, synaptic 
@@ -24,9 +21,6 @@ plasticity, visual processing.
 machine learning.
 - Neurophysiological Data Analysis: EEG, fMRI, fNIRS, handwriting kinematics.
 </div>
-
-
-
 ## Technical Skills
 - __Programming Languages:__ Python, C++, MATLAB
 - __Neuroscience Tools:__ NEURON, pySONATA, Brain Modeling Toolkit (BMTK), Visual 
