@@ -7,7 +7,7 @@ Location: Warsaw, Poland
 <div style="text-align: justify; width: 100%;">
 A computational neuroscientist with extensive experience in biophysical modeling, mathematical 
 analysis, and neural networks. Currently researching at the International Center for Translational 
-Eye Research [ICTER](https://icter.pl) with a focus on retina modeling and cortical column studies. Expertise in 
+Eye Research <a href="https://icter.pl" target="_blank">ICTER</a> with a focus on retina modeling and cortical column studies. Expertise in 
 combining computational techniques with biological data to understand neural mechanisms 
 underlying sensory processing and synaptic plasticity. Proficient in Python, C++, MATLAB, and  
 various neuroscience simulation tools, with a passion for bridging computational models with 
