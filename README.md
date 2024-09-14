@@ -1,9 +1,9 @@
 # Mehdi Borjkhani
 Computational Neuroscientist
+
 Email: mborjkhani@ichf.edu.pl | borjkhani@gmail.com
+
 Location: Warsaw, Poland
-Languages: Azerbaijani, Turkish, English, Persian, Polish
-Google Scholar: Google Scholar Profile
 
 # Professional Summary
 A computational neuroscientist with extensive experience in biophysical modeling, mathematical 
