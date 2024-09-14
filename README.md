@@ -11,9 +11,10 @@ Eye Research (ICTER) with a focus on retina modeling and cortical column studies
 combining computational techniques with biological data to understand neural mechanisms 
 underlying sensory processing and synaptic plasticity. Proficient in Python, C++, MATLAB, and  
 various neuroscience simulation tools, with a passion for bridging computational models with 
-experimental data.</div>
+experimental data.
+</div>
 
-<h2 style="margin-top: 40px;">## Research Interests</h2>
+## Research Interests
 <div style="text-align: justify; width: 100%;">
 - Computational Neuroscience: Neural networks, biophysical modeling, synaptic 
 plasticity, visual processing.
@@ -21,6 +22,7 @@ plasticity, visual processing.
 machine learning.
 - Neurophysiological Data Analysis: EEG, fMRI, fNIRS, handwriting kinematics.
 </div>
+
 ## Technical Skills
 - __Programming Languages:__ Python, C++, MATLAB
 - __Neuroscience Tools:__ NEURON, pySONATA, Brain Modeling Toolkit (BMTK), Visual 
