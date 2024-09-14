@@ -12,6 +12,7 @@ combining computational techniques with biological data to understand neural mec
 underlying sensory processing and synaptic plasticity. Proficient in Python, C++, MATLAB, and  
 various neuroscience simulation tools, with a passion for bridging computational models with 
 experimental data.<br>
+</div>  
 
 ## Research Interests
 <div style="text-align: justify; width: 100%;">
