@@ -16,11 +16,11 @@ experimental data.
 
 ## Research Interests
 <div style="text-align: justify; width: 100%;">
-- Computational Neuroscience: Neural networks, biophysical modeling, synaptic 
+- __Computational Neuroscience:__ Neural networks, biophysical modeling, synaptic 
 plasticity, visual processing.
-- Mathematical Modeling: Dynamical systems, chaos theory, signal processing, and 
+- __Mathematical Modeling:__ Dynamical systems, chaos theory, signal processing, and 
 machine learning.
-- Neurophysiological Data Analysis: EEG, fMRI, fNIRS, handwriting kinematics.
+- __Neurophysiological Data Analysis:__ EEG, fMRI, fNIRS, handwriting kinematics.
 </div>
 
 ## Technical Skills
