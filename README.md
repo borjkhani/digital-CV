@@ -30,6 +30,7 @@ Neuronal Dynamics (VND), Xppaut, Matcont
 - __Hardware/Design:__ CW-NIRS systems, HRV analyzers, robot arm, and autonomous 
 vehicle design
 - __Other Tools:__ Git, Arduino
+
 ## Publications
 [_Google scholar link_](https://scholar.google.com/citations?user=QQbQnuMAAAAJ&hl=en)
 
@@ -37,6 +38,7 @@ vehicle design
 - Developed a 24-channel NIRS system for light propagation studies (2020).
 - Implemented HRV analyzers for stress assessment (2018).
 - Designed robotic arms and systems for competitive robotics (2014).
+
 ## Teaching Experience
 - __Graduate Courses:__ Biomedical Signal Processing, Dynamical Systems in Neuroscience, 
 System Identification, Digital Signal Processing, Intelligent Control Systems, Pattern 
