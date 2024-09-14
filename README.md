@@ -32,7 +32,7 @@ vehicle design
 - __Other Tools:__ Git, Arduino
 
 ## Publications
-<a href="https://scholar.google.com/citations?user=QQbQnuMAAAAJ&hl=en" target="_blank" style="font-size: 1.2em; font-weight: bold;">Google scholar link</a>
+<a href="https://scholar.google.com/citations?user=QQbQnuMAAAAJ&hl=en" target="_blank" style="font-size: 1.1em; font-weight: bold; font-style: italic;">Google scholar link</a>
 
 ## Design and Implementations
 - Developed a 24-channel NIRS system for light propagation studies (2020).
