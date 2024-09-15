@@ -29,7 +29,7 @@ Neuronal Dynamics (VND), Xppaut, Matcont
 - __Signal Processing Software:__ EEGLAB, FSL, ICALAB, Kubios
 - __Hardware/Design:__ CW-NIRS systems, HRV analyzers, robot arm, and autonomous 
 vehicle design
-- __Other Tools:__ Git, Arduino
+- __Other Tools:__ GitHub, Arduino
 
 ## Publications
 <a href="https://scholar.google.com/citations?user=QQbQnuMAAAAJ&hl=en" target="_blank" style="font-size: 1.1em; font-weight: bold; font-style: italic;">Google scholar link</a>
