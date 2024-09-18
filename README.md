@@ -48,4 +48,8 @@ Engineering Mathematics.
 
 ## Selected accomplished projects
 __Computational model of a cortical column:__ [GitHub link](https://github.com/borjkhani/SCC_PCB) to the project.
+
 __Computational modeling of addiction formation:__ At the [cellular](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193410) and [network](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2018.00063/full) level.  
+
+
+
