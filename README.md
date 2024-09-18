@@ -47,4 +47,4 @@ Recognition, Artificial Neural Networks.
 Engineering Mathematics.
 
 ## Selected accomplished projects
-__Computational model of a cortical column:__ [link](https://github.com/borjkhani/SCC_PCB) to the project.
+__Computational model of a cortical column:__ [GitHub link](https://github.com/borjkhani/SCC_PCB) to the project.
