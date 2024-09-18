@@ -47,11 +47,37 @@ Recognition, Artificial Neural Networks.
 Engineering Mathematics.
 
 ## Selected accomplished projects
-__Computational model of a cortical column:__ [GitHub link](https://github.com/borjkhani/SCC_PCB) to the project.
 
-__Computational modeling of addiction formation:__ At the [cellular](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193410) and [network](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2018.00063/full) level.  
+### Computational Modeling
+__Investigating the Role of Inhibitory Interneurons in Shaping Orientation Selectivity in the Primary Visual Cortex Using a Biophysical Computational Model of a Cortical Column:__ Developed and analyzed a biophysical computational model of a cortical column to investigate how inhibitory interneurons influence orientation selectivity in the primary visual cortex. The project focused on understanding the complex interplay between excitatory and inhibitory neurons and their role in processing visual stimuli. My contributions involved constructing the model, performing simulations, and analyzing neural activity patterns to elucidate the mechanisms of orientation selectivity. [GitHub link](https://github.com/borjkhani/SCC_PCB) to the project.
 
-__Chaotic fractional order model and its control:__ link to the published [mauscript](https://onlinelibrary.wiley.com/doi/full/10.1002/cplx.21502)
+__Computational Modeling of Opioid-Induced Synaptic Plasticity, Memory, and Neuron-Astrocyte Interactions in the Hippocampus During Addiction:__ This comprehensive project integrates multiple computational studies focused on the effects of opioids on hippocampal synaptic plasticity, memory formation, and neuron-astrocyte interactions. The combined modeling approach examines how opioid exposure induces synaptic changes, contributes to pathological memory formation, and disrupts neuron-glia communication, all critical factors in the development of addiction. The project also explores potential strategies for preventing opioid-induced memory formation and mitigating addiction. By simulating the complex interplay between neurons and astrocytes and their response to opioids, this work provides a holistic understanding of the neurobiological mechanisms underlying addiction and offers insights for potential therapeutic interventions. published papers are: 
+  - [Computational modeling of opioid-induced synaptic plasticity in the hippocampus](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193410)
+  - [Assessing the effects of opioids on pathological memory by a computational model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6276537/)
+  - [Formation of opioid-induced memory and its prevention: A computational study](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2018.00063/full)
+  - [A mathematical model for neuron-astrocyte interactions in the hippocampus during addiction](https://ieeexplore.ieee.org/abstract/document/7043940)
+
+__Chaotic Fractional-Order Model for Muscular Blood Vessel and Its Control via Fractional Control Scheme:__ This project involved developing and analyzing a chaotic fractional-order model to simulate the dynamics of muscular blood vessels. The study focused on understanding the chaotic behavior in the vascular system and implementing a fractional control scheme to regulate and stabilize these dynamics. The model provided insights into the complexities of blood flow regulation in muscular vessels and demonstrated how fractional-order control could effectively suppress chaotic oscillations. My role included developing the model, performing simulations, and implementing control algorithms to manage chaotic behavior [Published paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cplx.21502).
+
+### Data Analysis 
+__Analysis of Hyperexcitability in Hippocampal CA1 Pyramidal Neurons in a Rat Model of Autism Spectrum Disorder:__ 
+Contributed to the *data analysis* of a study examining the hyperexcitability of hippocampal CA1 pyramidal neurons in male offspring of rats exposed to valproic acid (VPA) during pregnancy, a widely used model for autism spectrum disorder (ASD). The research focused on understanding the involvement of the Ih channel current in modulating neuronal excitability, providing insights into potential mechanisms contributing to ASD-related symptoms [Published paper link](https://www.sciencedirect.com/science/article/abs/pii/S0006899318306218).
+
+__Prevention of Electrophysiological Alterations by Kisspeptin-13 in an Amyloid-Beta Rat Model:__ Participated in the *data analysis* of a study exploring the neuroprotective effects of Kisspeptin-13 in preventing the electrophysiological changes induced by amyloid-beta pathology, a hallmark of Alzheimer's disease. The research investigated the role of stromal interaction molecules (STIM) and phosphorylated CREB (pCREB) in mediating these protective effects [Published paper link](https://www.sciencedirect.com/science/article/abs/pii/S0361923022000727). 
+
+__Alterations in Intrinsic Discharge Activity of CA1 Pyramidal Neurons in a Rat Model of Autism Induced by Prenatal Valproic Acid Exposure__ Contributed to the *data analysis* of a study investigating changes in the intrinsic discharge activity of CA1 pyramidal neurons in a rat model of autism, induced by prenatal exposure to valproic acid (VPA). The research focused on how these neuronal alterations might be associated with changes in NADPH diaphorase activity, an indicator of nitric oxide synthase function [Published paper link](https://www.sciencedirect.com/science/article/abs/pii/S0006899322002372).
+
+__Ca Channels Involvement in Low-Frequency Stimulation-Mediated Suppression of Intrinsic Excitability of Hippocampal CA1 Pyramidal Cells in a Rat Amygdala Kindling Model__ Participated in the *data analysis* of a study examining how low-frequency stimulation (LFS) affects the intrinsic excitability of hippocampal CA1 pyramidal neurons in a rat model of amygdala kindling, an experimental model for epilepsy. The research focused on the role of calcium (Ca2+) channels in mediating this suppression of excitability [Published paper link](https://www.sciencedirect.com/science/article/abs/pii/S0306452219301630).
+
+### Machine learning 
+__Extracting Reliable Handwriting Kinematic Features Using Neural Networks for Diagnosing Schizophrenia__ Contributed to the analysis of a study focused on using neural networks to extract reliable kinematic features from handwriting for diagnosing schizophrenia. The project aimed to identify subtle motor control impairments associated with schizophrenia by analyzing handwriting movements and features, such as pressure, speed, and trajectory. My role involved preprocessing handwriting data and implementing neural network algorithms to detect patterns indicative of schizophrenia, showcasing the potential of machine learning in early diagnosis [link to published paper](https://ieeexplore.ieee.org/abstract/document/4786061).
+
+### Electronic design and signal processing
+
+__Low Power Current Starved Sub-Harmonic Injection Locked Ring Oscillator__ Contributed to the development and analysis of a low-power, current-starved, sub-harmonic injection-locked ring oscillator (SHILO) designed for high-frequency applications. The project focused on minimizing power consumption while achieving stable oscillation frequencies by utilizing sub-harmonic injection locking techniques. My role involved circuit design optimization and performance analysis, particularly addressing the oscillator's power efficiency and frequency stability, demonstrating expertise in low-power electronic design and signal processing [link to published paper](https://ieeexplore.ieee.org/abstract/document/6999499). 
+
+
+
 
 
 
