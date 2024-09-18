@@ -51,5 +51,8 @@ __Computational model of a cortical column:__ [GitHub link](https://github.com/b
 
 __Computational modeling of addiction formation:__ At the [cellular](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0193410) and [network](https://www.frontiersin.org/journals/computational-neuroscience/articles/10.3389/fncom.2018.00063/full) level.  
 
+__Chaotic fractional order model and its control:__ link to the published [mauscript](https://onlinelibrary.wiley.com/doi/full/10.1002/cplx.21502)
+
+
 
 
