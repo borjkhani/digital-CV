@@ -45,3 +45,6 @@ System Identification, Digital Signal Processing, Intelligent Control Systems, P
 Recognition, Artificial Neural Networks.
 - __Undergraduate Courses:__ Electrical Circuits, Electronic circuits, Process Control, Physics, Advanced 
 Engineering Mathematics.
+
+## Selected accomplished projects
+__Computational model of cortical column:__ [link](https://github.com/borjkhani/SCC_PCB) to the project.
