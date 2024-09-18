@@ -76,6 +76,12 @@ __Extracting Reliable Handwriting Kinematic Features Using Neural Networks for D
 
 __Low Power Current Starved Sub-Harmonic Injection Locked Ring Oscillator__ Contributed to the development and analysis of a low-power, current-starved, sub-harmonic injection-locked ring oscillator (SHILO) designed for high-frequency applications. The project focused on minimizing power consumption while achieving stable oscillation frequencies by utilizing sub-harmonic injection locking techniques. My role involved circuit design optimization and performance analysis, particularly addressing the oscillator's power efficiency and frequency stability, demonstrating expertise in low-power electronic design and signal processing [link to published paper](https://ieeexplore.ieee.org/abstract/document/6999499). 
 
+### Chaos and Computational simulations
+__Plasmonic Phenomena in Graphene Oxide and Gold Nanostructures: Amplification, Propagation, and Chaos in Surface Plasmon Polaritons:__ This comprehensive project integrates three interconnected studies that explore the behavior of surface plasmon polaritons (SPPs) in advanced material systems, combining both experimental and computational approaches. The first part examines the amplification of hybrid SPPs in a partially reduced graphene oxide (rGO) layer supported on gold, where the interaction between light and the hybrid structure enhances SPP amplification. In the second part, the propagation length of SPPs in an ultrafine gold nanodisk array is enhanced through nonlinear effects such as kinky breathers and periodic lumps, improving the efficiency of plasmonic devices. The third study experimentally demonstrates period doubling and the route to chaos in reduced graphene oxide, providing novel evidence of chaotic behavior in these materials, which plays a crucial role in understanding the dynamics of light-matter interactions at the nanoscale. My involvement in these projects focused on coding, simulations, and experimental data analysis, integrating insights from computational modeling with experimental observations to optimize the plasmonic properties of these nanostructured materials. 
+[Amplification](https://www.sciencedirect.com/science/article/pii/S0169433223017993)
+[Propagation](https://www.sciencedirect.com/science/article/pii/S0921452622001077)
+[Chaos](https://www.sciencedirect.com/science/article/pii/S016773221830878X)
+
 
 
 
