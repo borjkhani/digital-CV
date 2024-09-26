@@ -48,48 +48,33 @@ vehicle design
 
 ## Design and Implementations
 ●	Laser Driver (10-bit Current Sink DAC):
-
-    o	Designed and implemented a laser driver circuit with precise current control for optical applications.
-    
-    o	Enhanced laser modulation precision and system efficiency.
+ - Designed and implemented a laser driver circuit with precise current control for optical applications.
+ -	Enhanced laser modulation precision and system efficiency.
     
 ●	High-Precision ADC Systems:
-
-    o	Developed 24-bit ADC circuits for optical sensors, improving measurement accuracy.
-    
-    o	Authored two custom ADC drivers, reducing data latency.
+ -	Developed 24-bit ADC circuits for optical sensors, improving measurement accuracy.
+ -	Authored two custom ADC drivers, reducing data latency.
     
 ●	OPT101 and SiPM Sensor Integration:
-
-    o	Integrated OPT101 photodiode sensors and SiPM sensors into optical measurement systems.
-    
-    o	Developed signal processing algorithms to improve measurement reliability.
+-	Integrated OPT101 photodiode sensors and SiPM sensors into optical measurement systems.
+-	Developed signal processing algorithms to improve measurement reliability.
     
 ●	Motor Control for CNC Machines:
-
-    o	Programmed stepper motor controllers using Arduino shields.
-    
-    o	Improved CNC machine precision and developed user interfaces for system control.
+- 	Programmed stepper motor controllers using Arduino shields.
+- 	Improved CNC machine precision and developed user interfaces for system control.
     
 ●	RP2040 Programming:
-
-    o	Developed embedded applications on the RP2040 microcontroller in C.
-    
-    o	Focused on real-time data processing and power management features.
+- 	Developed embedded applications on the RP2040 microcontroller in C.
+- 	Focused on real-time data processing and power management features.
     
 ●	Embedded Programming Projects:
-
-    o	Implemented various projects involving sensor integration and data acquisition.
-    
-    o	Worked on hardware prototyping and firmware optimization.
+- 	Implemented various projects involving sensor integration and data acquisition.
+- 	Worked on hardware prototyping and firmware optimization.
     
 ●	Previous Implementations:
-
-    o	Developed a 24-channel NIRS system for light propagation studies (2020).
-    
-    o	Implemented HRV analyzers for stress assessment (2018).
-    
-    o	Designed robotic arms and systems for competitive robotics (2014).
+- 	Developed a 24-channel NIRS system for light propagation studies (2020).
+- 	Implemented HRV analyzers for stress assessment (2018).
+- 	Designed robotic arms and systems for competitive robotics (2014).
     
 
 ## Teaching Experience
