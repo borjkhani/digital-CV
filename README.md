@@ -29,12 +29,18 @@ Neuronal Dynamics (VND), Xppaut, Matcont
 - __Signal Processing Software:__ EEGLAB, FSL, ICALAB, MNE, Kubios
 - __Hardware/Design:__ CW-NIRS systems, HRV analyzers, robot arm, and autonomous 
 vehicle design
--	__Embedded Systems and Hardware Design:__ 
+-	__Embedded Systems and Hardware Design:__
+
   o	__Microcontrollers:__ Raspberry Pi Pico (RP2040), Arduino 
-  o	__Embedded Programming:__ C programming for microcontrollers, firmware development 
+  
+  o	__Embedded Programming:__ C programming for microcontrollers, firmware development
+  
   o	__Hardware Design:__ Laser drivers (10-bit current sink DAC), 24-bit ADC circuits 
+  
   o	__Sensor Integration:__ OPT101 optical sensors, SiPM sensors 
-  o	__Motor Control:__ Stepper motor control with Arduino shields for CNC 
+  
+  o	__Motor Control:__ Stepper motor control with Arduino shields for CNC
+  
 - __Other Tools:__ Git, GitHub, Pico VScode, Arduino 
 
 ## Publications
@@ -42,27 +48,49 @@ vehicle design
 
 ## Design and Implementations
 ●	Laser Driver (10-bit Current Sink DAC):
+
     o	Designed and implemented a laser driver circuit with precise current control for optical applications.
+    
     o	Enhanced laser modulation precision and system efficiency.
+    
 ●	High-Precision ADC Systems:
+
     o	Developed 24-bit ADC circuits for optical sensors, improving measurement accuracy.
+    
     o	Authored two custom ADC drivers, reducing data latency.
+    
 ●	OPT101 and SiPM Sensor Integration:
+
     o	Integrated OPT101 photodiode sensors and SiPM sensors into optical measurement systems.
+    
     o	Developed signal processing algorithms to improve measurement reliability.
+    
 ●	Motor Control for CNC Machines:
+
     o	Programmed stepper motor controllers using Arduino shields.
+    
     o	Improved CNC machine precision and developed user interfaces for system control.
+    
 ●	RP2040 Programming:
+
     o	Developed embedded applications on the RP2040 microcontroller in C.
+    
     o	Focused on real-time data processing and power management features.
+    
 ●	Embedded Programming Projects:
+
     o	Implemented various projects involving sensor integration and data acquisition.
+    
     o	Worked on hardware prototyping and firmware optimization.
+    
 ●	Previous Implementations:
+
     o	Developed a 24-channel NIRS system for light propagation studies (2020).
+    
     o	Implemented HRV analyzers for stress assessment (2018).
+    
     o	Designed robotic arms and systems for competitive robotics (2014).
+    
 
 ## Teaching Experience
 - __Graduate Courses:__ Biomedical Signal Processing, Dynamical Systems in Neuroscience, 
