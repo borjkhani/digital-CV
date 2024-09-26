@@ -29,17 +29,17 @@ Neuronal Dynamics (VND), Xppaut, Matcont
 - __Signal Processing Software:__ EEGLAB, FSL, ICALAB, MNE, Kubios
 - __Hardware/Design:__ CW-NIRS systems, HRV analyzers, robot arm, and autonomous 
 vehicle design
--	__Embedded Systems and Hardware Design:__
--	
-        - __Microcontrollers:__ Raspberry Pi Pico (RP2040), Arduino
+ - __Embedded Systems and Hardware Design:__
+
+   - __Microcontrollers:__ Raspberry Pi Pico (RP2040), Arduino
  	
-        - __Embedded Programming:__ C programming for microcontrollers, firmware development
+   - __Embedded Programming:__ C programming for microcontrollers, firmware development
  	
-    	- __Hardware Design:__ Laser drivers (10-bit current sink DAC), 24-bit ADC circuits
+   - __Hardware Design:__ Laser drivers (10-bit current sink DAC), 24-bit ADC circuits
  	
-        - __Sensor Integration:__ OPT101 optical sensors, SiPM sensors
+   - __Sensor Integration:__ OPT101 optical sensors, SiPM sensors
  	
-        - __Motor Control:__ Stepper motor control with Arduino shields for CNC
+   - __Motor Control:__ Stepper motor control with Arduino shields for CNC
   
 - __Other Tools:__ Git, GitHub, Pico VScode, Arduino 
 
