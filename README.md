@@ -33,7 +33,7 @@ vehicle design
 
    - __Microcontrollers:__ Raspberry Pi Pico (RP2040), Arduino
  	
-   - __Embedded Programming:__ C programming for microcontrollers, firmware development
+   - __Embedded Programming:__ C programming for microcontrollers
  	
    - __Hardware Design:__ Laser drivers (10-bit current sink DAC), 24-bit ADC circuits
  	
