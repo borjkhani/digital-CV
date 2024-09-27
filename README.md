@@ -53,23 +53,19 @@ vehicle design
     
 ●	High-Precision ADC Systems:
  -	Developed 24-bit ADC circuits for optical sensors, improving measurement accuracy.
- -	Authored two custom ADC drivers, reducing data latency.
+ -	Authored two custom ADC drivers.
     
 ●	OPT101 and SiPM Sensor Integration:
 -	Integrated OPT101 photodiode sensors and SiPM sensors into optical measurement systems.
--	Developed signal processing algorithms to improve measurement reliability.
     
 ●	Motor Control for CNC Machines:
 - 	Programmed stepper motor controllers using Arduino shields.
-- 	Improved CNC machine precision and developed user interfaces for system control.
     
 ●	RP2040 Programming:
 - 	Developed embedded applications on the RP2040 microcontroller in C.
-- 	Focused on real-time data processing and power management features.
     
 ●	Embedded Programming Projects:
 - 	Implemented various projects involving sensor integration and data acquisition.
-- 	Worked on hardware prototyping and firmware optimization.
     
 ●	Previous Implementations:
 - 	Developed a 24-channel NIRS system for light propagation studies (2020).
