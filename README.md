@@ -128,8 +128,7 @@ __Plasmonic Phenomena in Graphene Oxide and Gold Nanostructures: Amplification, 
 
 
 
-
-
+## Affiliations and Institutions
 ![image](https://github.com/user-attachments/assets/7eb44d75-1457-453d-ad29-a3621e3a49ac)
 
 
