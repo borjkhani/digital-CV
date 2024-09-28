@@ -23,10 +23,10 @@ machine learning.
 
 
 ## Technical Skills
-- __Programming Languages:__ Python, C++, MATLAB
+- __Programming Languages:__ Python, C/C++, MATLAB
 - __Neuroscience Tools:__ NEURON, pySONATA, Brain Modeling Toolkit (BMTK), Visual 
 Neuronal Dynamics (VND), Xppaut, Matcont
-- __Signal Processing Software:__ EEGLAB, FSL, ICALAB, MNE, Kubios
+- __Signal Processing Software:__ EEGLAB, FSL, ICALAB, MNE, Kubios HRV
 - __Hardware/Design:__ CW-NIRS systems, HRV analyzers, robot arm, and autonomous 
 vehicle design
  - __Embedded Systems and Hardware Design:__
@@ -87,7 +87,7 @@ __Computational Modeling of Opioid-Induced Synaptic Plasticity, Memory, and Neur
 
 __Chaotic Fractional-Order Model for Muscular Blood Vessel and Its Control via Fractional Control Scheme:__ This project involved developing and analyzing a chaotic fractional-order model to simulate the dynamics of muscular blood vessels. The study focused on understanding the chaotic behavior in the vascular system and implementing a fractional control scheme to regulate and stabilize these dynamics. The model provided insights into the complexities of blood flow regulation in muscular vessels and demonstrated how fractional-order control could effectively suppress chaotic oscillations. My role included developing the model, performing simulations, and implementing control algorithms to manage chaotic behavior [Published paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cplx.21502).
 
-__Simulation of Nerve Blocking by Sinus Square Signal:__ Developed a computational model to simulate nerve blocking using sinus square waveforms. This research contributes to non-invasive pain management techniques by providing insights into nerve stimulation methods. My role involved coding the simulation and analyzing the effects of different signal parameters on nerve blocking efficiency.
+__Simulation of Nerve Blocking by Sinus Square Signal:__ Developed a computational model to simulate nerve blocking using sinus square waveforms. This research contributes to non-invasive pain management techniques by providing insights into nerve stimulation methods. My role involved coding the simulation and analyzing the effects of different signal parameters on nerve-blocking efficiency.
 
 
 ### Data Analysis 
@@ -128,6 +128,20 @@ __Plasmonic Phenomena in Graphene Oxide and Gold Nanostructures: Amplification, 
 
 
 
+
+
+
+![image](https://github.com/user-attachments/assets/ab219fa8-0c50-459b-a301-4fc027772b22)
+
+![image](https://github.com/user-attachments/assets/c62645f6-0ddb-43ae-8d56-8c1ba637a10b)
+
+![image](https://github.com/user-attachments/assets/f4a7cd54-a5f1-40d2-8975-d010bb8d5378)
+
+![image](https://github.com/user-attachments/assets/e19deb7e-d2a2-409c-977b-25f44718fb17)
+
+![image](https://github.com/user-attachments/assets/34527ef0-2f53-4aa0-97ec-3a4365837e20)
+
+![image](https://github.com/user-attachments/assets/0a3e9ff5-8c6c-4fde-a8da-b533ee598805)
 
 
 
