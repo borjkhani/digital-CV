@@ -41,16 +41,16 @@ vehicle design
 <a href="https://scholar.google.com/citations?user=QQbQnuMAAAAJ&hl=en" target="_blank" style="font-size: 1.1em; font-weight: bold; font-style: italic;">Google scholar link</a>
 
 ## Design and Implementations
-●	Laser Driver (10-bit Current Sink DAC): Designed and implemented a laser driver circuit with precise current control for optical applications.
-●	High-Precision ADC Systems: Developed 24-bit ADC circuits for optical sensors,	Authored two custom ADC drivers.
-●	OPT101 and SiPM Sensor Integration: Integrated OPT101 photodiode sensors and SiPM sensors into optical measurement systems.
-●	Motor Control for CNC Machines: Programmed stepper motor controllers using Arduino shields.
-●	RP2040 Programming: Developed embedded applications on the RP2040 microcontroller in C.
-●	Embedded Programming Projects: Implemented various projects involving sensor integration and data acquisition.
-●	Previous Implementations: 
-  - Developed a 24-channel NIRS system for light propagation studies (2020). 
-  - Implemented HRV analyzers for stress assessment (2018).
-  -	Designed robotic arms and systems for competitive robotics (2014).
+●	Laser Driver (10-bit Current Sink DAC): Designed and implemented a laser driver circuit with precise current control for optical applications. 
+●	High-Precision ADC Systems: Developed 24-bit ADC circuits for optical sensors,	Authored two custom ADC drivers. 
+●	OPT101 and SiPM Sensor Integration: Integrated OPT101 photodiode sensors and SiPM sensors into optical measurement systems. 
+●	Motor Control for CNC Machines: Programmed stepper motor controllers using Arduino shields. 
+●	RP2040 Programming: Developed embedded applications on the RP2040 microcontroller in C. 
+●	Embedded Programming Projects: Implemented various projects involving sensor integration and data acquisition. 
+●	Previous Implementations:  
+  - Developed a 24-channel NIRS system for light propagation studies (2020).  
+  - Implemented HRV analyzers for stress assessment (2018). 
+  -	Designed robotic arms and systems for competitive robotics (2014). 
     
 
 ## Teaching Experience
