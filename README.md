@@ -114,6 +114,7 @@ __Low Power Current Starved Sub-Harmonic Injection Locked Ring Oscillator__ Cont
 __Plasmonic Phenomena in Graphene Oxide and Gold Nanostructures: Amplification, Propagation, and Chaos in Surface Plasmon Polaritons:__ This comprehensive project integrates three interconnected studies that explore the behavior of surface plasmon polaritons (SPPs) in advanced material systems, combining both experimental and computational approaches. The first part examines the amplification of hybrid SPPs in a partially reduced graphene oxide (rGO) layer supported on gold, where the interaction between light and the hybrid structure enhances SPP amplification. In the second part, the propagation length of SPPs in an ultrafine gold nanodisk array is enhanced through nonlinear effects such as kinky breathers and periodic lumps, improving the efficiency of plasmonic devices. The third study experimentally demonstrates period doubling and the route to chaos in reduced graphene oxide, providing novel evidence of chaotic behavior in these materials, which plays a crucial role in understanding the dynamics of light-matter interactions at the nanoscale. My involvement in these projects focused on coding, simulations, and experimental data analysis, integrating insights from computational modeling with experimental observations to optimize the plasmonic properties of these nanostructured materials. 
 
 
+
 [Amplification](https://www.sciencedirect.com/science/article/pii/S0169433223017993)
 
 [Propagation](https://www.sciencedirect.com/science/article/pii/S0921452622001077)
