@@ -1,0 +1,30 @@
+clc;
+clear;
+close all
+
+%insert sig2
+gam =3;
+sig2 = 40;
+
+load ballbeam.dat
+X1=ballbeam(1:700,1);
+Y1=ballbeam(1:700,2);
+Xt=ballbeam(701:1000,1);
+Y2=ballbeam(701:1000,2);
+type = 'function estimation';
+kernel = 'RBF_kernel';
+
+%A model is de?ned
+model = initlssvm(X1,Y1,type,gam,sig2,kernel);
+model = trainlssvm(model);
+plotlssvm(model);
+[alpha,b] = trainlssvm({X1,Y1,type,gam,sig2,'RBF_kernel','original'});
+Ytrn=(alpha/gam+b);
+[Ytest,b2] = trainlssvm({Xt,Y2,type,gam2,sig2,'RBF_kernel','original'});
+plot(1:700,alpha/gam+b,'r',1:700,Y1,'b')
+plot(1:300,Y2,'r',1:300,Ytest/gam2+b2,'b')
+
+e=(Y1-Ytrn).^2;
+MSE=sum(e)/1000
+
+

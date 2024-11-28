@@ -1,0 +1,45 @@
+Contributed by:
+	Jairo Espinosa
+	ESAT-SISTA KULEUVEN
+	Kardinaal Mercierlaan 94
+B-3001 Heverlee Belgium
+	jairo.espinosa@esat.kuleuven.ac.be
+Description:
+	The data comes from a model of a Steam Generator at Abbott Power Plant in Champaign IL.
+	The model is described in the paper of Pellegrineti [1].
+Sampling:
+	3 sec
+Number:
+	9600
+Inputs:
+	u1: Fuel scaled 0-1
+	u2: Air	scaled 0-1
+	u3: Reference level inches
+	u4: Disturbance definde by the load level
+Outputs:
+	y1: Drum pressure PSI
+	y2: Excess Oxygen in exhaust gases %
+	y3: Level of water in the drum
+	y4: Steam Flow Kg./s
+References:
+	[1] G. Pellegrinetti and J. Benstman, Nonlinear Control Oriented Boiler Modeling -A Benchamrk Problem for Controller Design, IEEE Tran. Control Systems Tech. Vol.4No.1 Jan.1996
+	[2] J. Espinosa and J. Vandewalle Predictive Control Using Fuzzy Models Applied to a Steam Generating Unit, Submitted to FLINS 98 3rd. International Workshop on Fuzzy Logic Systems and Intelligent Technologies for Nuclear Science and Industry
+Properties:
+	To make possible the open loop identification the wter level was 
+	stabilized by appliying to the water flow input a feedforward action proportional to the steam flow
+	with value 0.0403 and a PI action with values Kp=0.258 Ti=1.1026e-4 the reference of this controller 
+	is the input u3.
+Columns:
+	Column 1: time-steps
+	Column 2: input fuel
+	Column 3: input air
+	Column 4: input level ref.
+	Column 5: input disturbance
+	Column 6: output drum pressure
+	Column 7: output excess oxygen
+	Column 8: output water level
+	Column 9: output steam flow
+Category:
+	Process industry systems
+Where:
+	ftp://ftp.esat.kuleuven.ac.be/pub/SISTA/espinosa/datasets/powplant.dat
