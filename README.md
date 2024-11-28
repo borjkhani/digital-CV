@@ -124,7 +124,7 @@ Mathematical modeling of synchronization and chaotic dynamics in neural systems.
 This course emphasized geometrical and reduction techniques, including phase portraits and bifurcation analysis, and applied these concepts to analyze neuronal systems.
 
 
-*System Identification: Building Mathematical Models of Dynamic Systems*
+*[System Identification](https://github.com/borjkhani/digital-CV/blob/main/Supplementary%20materials/Picture1.png): Building Mathematical Models of Dynamic Systems*
 Completed an in-depth course on advanced techniques for constructing and refining mathematical models of dynamic systems using real-world data. The course emphasized practical and theoretical approaches to system modeling, with applications in engineering, neuroscience, and machine learning.
 
 Key Topics and Skills Acquired:
