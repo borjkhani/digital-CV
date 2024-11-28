@@ -129,7 +129,6 @@ Completed an in-depth course on advanced techniques for constructing and refinin
 
 Key Topics and Skills Acquired:
 
-Core Modeling Approaches:
 White Box Modeling: Leveraged physical knowledge for precise system modeling.
 Gray Box Modeling: Combined theoretical insights with data-driven methods for balanced accuracy and interpretability.
 Black Box Modeling: Developed purely data-driven predictive models.
