@@ -110,17 +110,10 @@ Developed a model to estimate and predict the nonlinear dynamic behavior of a st
 [Click to view simulation results]()
 
 
-__Design and Optimization of Radial Basis Function Neural Networks for Farsi Handwritten Number Recognition:__
-Developed and implemented a custom *Radial Basis Function (RBF)* neural network to classify Farsi handwritten numbers into 10 categories using a dataset from CECM. The project explored the impact of critical design parameters on classification performance, including the number of neurons, location of Gaussian centers, and covariance matrix properties. Key contributions and insights include: *1) Network Design and Learning Algorithms:* Implemented a custom RBF neural network in MATLAB, avoiding built-in NN toolboxes. Utilized steepest descent algorithms for optimizing output layer weights and Gaussian parameters. Explored the effects of shared versus separate variances for Gaussian neurons on convergence speed and classification accuracy.
-*2) Parameter Optimization:* Conducted trial-and-error experiments to determine the optimal number of hidden layer neurons. Limited variances to predefined bounds to ensure numerical stability.
-*3) Clustering Approaches:* Integrated k-means clustering to initialize Gaussian centers and covariance matrices. Compared performance between input-space and class-specific clustering. 
-*4) Performance Analysis:* Demonstrated the trade-offs between neuron count and classification accuracy, achieving optimal performance with reduced complexity.
-Highlighted the benefits of input-output clustering for enhanced convergence speed and accuracy. This project underscored the flexibility and effectiveness of RBF networks for pattern recognition tasks, particularly in handling high-dimensional handwritten data. [Click to view code and detailed report]()
-
-
-
-
-
+__Design and Analysis of Neural Networks for Farsi Handwritten Number Recognition:__
+Developed and implemented custom neural network architectures (*RBF* and *MLP*) in MATLAB to classify Farsi handwritten numbers into 10 categories using a dataset from CECM. The projects focused on exploring network architectures, optimization techniques, and feature conditioning to improve classification performance. Key contributions include: 
+*Custom RBF Neural Network:* Designed and optimized an RBF neural network without using MATLAB's NN toolbox. Utilized steepest descent algorithms for training output layer weights and Gaussian parameters. Compared the effects of shared versus separate variances on convergence speed and classification accuracy. Integrated k-means clustering to initialize Gaussian centers and covariance matrices, with further optimization through steepest descent algorithms. Investigated the trade-off between the number of neurons and classification performance to reduce network complexity while maintaining accuracy. 
+*Custom MLP Neural Network:* Built and trained a multi-layered perceptron (MLP) classifier, using one and two hidden layers, with steepest descent and conjugate gradient algorithms for optimization. Conducted a detailed comparison of learning algorithms, including Back Propagation, Full Propagation, and Conjugate Gradient, in terms of convergence speed, numerical complexity, and classification performance. Explored the impact of feature conditioning by comparing results from 50 raw features versus nine derived features. Identified optimal neuron counts for hidden layers through trial and error, using metrics like mean squared error (MSE), confusion matrices, and correct classification rates (CCR). Benchmarked the MLP classifier against other methods, including Bayes optimal classifiers, k-NN density estimation, and SVMs, highlighting strengths and limitations in learning convergence and classification accuracy. These projects demonstrated advanced neural network design and analysis skills, emphasizing the ability to optimize architectures, implement custom learning algorithms, and evaluate performance against established machine learning benchmarks [Click to view code and detailed report]().
 
 
 
