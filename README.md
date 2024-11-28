@@ -114,6 +114,16 @@ __Plasmonic Phenomena in Graphene Oxide and Gold Nanostructures: Amplification, 
 
 [Chaos](https://www.sciencedirect.com/science/article/pii/S016773221830878X)
 
+### Advanced Training and Coursework
+Dynamical Systems in Neuroscience: Bridging Electrophysiology and Nonlinear Dynamics
+Completed an advanced course based on [Eugene M. Izhikevich's](https://www.izhikevich.org/index.htm) renowned textbook on [Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf), providing a comprehensive understanding of how dynamical systems theory applies to neuronal behavior. This training bridged the gap between electrophysiology and nonlinear dynamics, equipping me with analytical and computational tools to study the complex firing patterns of neurons.
+Key topics covered:
+Electrophysiology, phase plane analysis, bifurcation theory, and neuronal excitability.
+Conductance-based models like Hodgkin-Huxley and bursting phenomena in neurons.
+Mathematical modeling of synchronization and chaotic dynamics in neural systems.
+This course emphasized geometrical and reduction techniques, including phase portraits and bifurcation analysis, and applied these concepts to analyze neuronal systems.
+
+
 
 ## Design and Implementations
 ●	Laser Driver (10-bit Current Sink DAC): Designed and implemented a laser driver circuit with precise current control for optical applications.
