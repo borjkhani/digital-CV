@@ -116,6 +116,7 @@ __Plasmonic Phenomena in Graphene Oxide and Gold Nanostructures: Amplification, 
 
 ### Advanced Training and Coursework
 *[Dynamical Systems in Neuroscience](https://www.izhikevich.org/publications/dsn.pdf): Bridging Electrophysiology and Nonlinear Dynamics*
+
 Completed an advanced course based on a renowned textbook on [Eugene M. Izhikevich](https://www.izhikevich.org/index.htm)'s renowned textbook, providing a comprehensive understanding of how dynamical systems theory applies to neuronal behavior. This training bridged the gap between electrophysiology and nonlinear dynamics, equipping me with analytical and computational tools to study the complex firing patterns of neurons.
 Key topics covered:
 Electrophysiology, phase plane analysis, bifurcation theory, and neuronal excitability.
