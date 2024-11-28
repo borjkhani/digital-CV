@@ -105,6 +105,14 @@ __Application of GA, PSO, and ACO Algorithms in Engineering Optimization Problem
 
 __Kinematical Modeling of the Writing Process Using Model Predictive Control:__ Developed a computational model to simulate the human writing process using Model Predictive Control (MPC). This project addressed the limitations of existing bottom-up models by incorporating neurological and physiological aspects of brain function involved in writing. The model demonstrates how prediction and internal limb models contribute to writing skills, providing a framework that closely mimics real human handwriting. My contributions included formulating the MPC-based model, conducting simulations, and validating the model against experimental handwriting data, resulting in high correlation with the statistical and dynamical features of human writing [link to published paper](https://www.ijbme.org/article_13332_en.html). 
 
+__Modeling and Estimation of Steam Generation Systems Using Least-Square Support Vector Machines (LSSVM):__
+Developed a model to estimate and predict the nonlinear dynamic behavior of a steam generation system using LSSVM in MATLAB. This project explored the flexibility and robustness of LSSVM, incorporating MLP and RBF kernels to optimize system outputs. The methodology involved normalizing input data, conducting parameter searches, and fine-tuning hyperparameters (e.g., regularization parameter *gam* and kernel parameter *sig2*) to minimize training and testing errors. The simulations demonstrated the challenges of high-frequency fluctuations in steam generation outputs and successfully identified optimal parameter settings. Results highlighted the model's strong generalization capabilities and its applicability in predictive modeling for complex dynamic systems.
+[Click to view simulation results]()
+
+
+
+
+
 
 ### Electronic design and signal processing
 
