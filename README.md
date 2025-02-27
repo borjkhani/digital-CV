@@ -3,6 +3,7 @@
 Email: mborjkhani@ichf.edu.pl | borjkhani@gmail.com
 Location: Warsaw, Poland
 
+
 ## Professional Summary
 <div style="text-align: justify; width: 100%;">
 A computational neuroscientist with extensive experience in biophysical modeling, mathematical 
