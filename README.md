@@ -132,29 +132,18 @@ This course emphasized geometrical and reduction techniques, including phase por
 *[System Identification](https://github.com/borjkhani/digital-CV/blob/main/Supplementary%20materials/Picture1.png): Building Mathematical Models of Dynamic Systems*
 Completed an in-depth course on advanced techniques for constructing and refining mathematical models of dynamic systems using real-world data. The course emphasized practical and theoretical approaches to system modeling, with applications in engineering, neuroscience, and machine learning.
 
-Key Topics and Skills Acquired:
-
-White Box Modeling: Leveraged physical knowledge for precise system modeling.
-Gray Box Modeling: Combined theoretical insights with data-driven methods for balanced accuracy and interpretability.
-Black Box Modeling: Developed purely data-driven predictive models.
+__Key Topics and Skills Acquired:__
+*White Box Modeling:* Leveraged physical knowledge for precise system modeling.
+*Gray Box Modeling:* Combined theoretical insights with data-driven methods for balanced accuracy and interpretability.
+*Black Box Modeling:* Developed purely data-driven predictive models.
 Model Families:
-Linear and Nonlinear Static Models: Implemented techniques such as linear regression, artificial neural networks (RBF and MLP), and fuzzy logic.
-Linear and Nonlinear Dynamic Models: Analyzed systems with state-space representations, transfer functions, differential equations, and neuro-fuzzy systems.
-Parametric Identification Methods:
-Explored ARMA, ARX, BJ, FIR, ARARX, and ARMAX models for autoregressive analysis, incorporating noise and input-output dynamics.
-Input Selection and Dimensionality Reduction:
-Applied PCA, ICA, and correlation analysis to streamline model inputs.
-Key Concepts:
-Addressed overmodeling and undermodeling trade-offs, overfitting challenges, and cost function optimization.
-Advanced Neural Networks:
-Designed and trained RBF, MLP, and Hopfield networks for nonlinear system modeling and optimization, utilizing algorithms like back propagation and full propagation.
-Practical Implementation:
-
-Developed MATLAB code for modeling and identification tasks, including MLP networks applied to datasets like IRIS, emphasizing the interplay between parameter selection, convergence, and classification performance.
-
-
-
-
+*Linear and Nonlinear Static Models:* Implemented techniques such as linear regression, artificial neural networks (RBF and MLP), and fuzzy logic.
+*Linear and Nonlinear Dynamic Models:* Analyzed systems with state-space representations, transfer functions, differential equations, and neuro-fuzzy systems.
+*Parametric Identification Methods:* Explored ARMA, ARX, BJ, FIR, ARARX, and ARMAX models for autoregressive analysis, incorporating noise and input-output dynamics.
+*Input Selection and Dimensionality Reduction:* Applied PCA, ICA, and correlation analysis to streamline model inputs.
+*Key Concepts:* Addressed overmodeling and undermodeling trade-offs, overfitting challenges, and cost function optimization.
+*Advanced Neural Networks:* Designed and trained RBF, MLP, and Hopfield networks for nonlinear system modeling and optimization, utilizing algorithms like back propagation and full propagation.
+*Practical Implementation:* Developed MATLAB code for modeling and identification tasks, including MLP networks applied to datasets like IRIS, emphasizing the interplay between parameter selection, convergence, and classification performance.
 
 ## Design and Implementations
 ●	Laser Driver (10-bit Current Sink DAC): Designed and implemented a laser driver circuit with precise current control for optical applications.
