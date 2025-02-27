@@ -64,7 +64,12 @@ __Chaotic Fractional-Order Model for Muscular Blood Vessel and Its Control via F
 __Simulation of Nerve Blocking by Sinus Square Signal:__ Developed a computational model to simulate nerve blocking using sinus square waveforms. This research contributes to non-invasive pain management techniques by providing insights into nerve stimulation methods. My role involved coding the simulation and analyzing the effects of different signal parameters on nerve-blocking efficiency.
 
 
-### Data Analysis 
+### Data Analysis
+
+__The Impact of Astroglia Kir4.1 Channel Dysfunction on Neuronal Activity and Autism-Related Behavioral Abnormalities:__
+Contributed to the *data analysis* of a study examining the role of astroglia Kir4.1 channels in regulating neuronal excitability and autism-related behavioral deficits in a rat model of autism spectrum disorder (ASD). The research utilized whole-cell patch-clamp recordings from hippocampal CA1 pyramidal neurons to assess the electrophysiological consequences of Kir4.1 inhibition, revealing hyperexcitability features similar to those observed in ASD-like neurons induced by prenatal valproic acid (VPA) exposure. Additionally, behavioral assessments demonstrated that Kir4.1 dysfunction led to increased anxiety, social withdrawal, impaired recognition memory, and reduced exploratory behavior, highlighting its contribution to ASD-related symptoms. This study underscores the critical role of astroglial potassium homeostasis in neuronal function and behavior, providing insights into potential therapeutic targets for ASD.
+[Published paper link in 2025](https://onlinelibrary.wiley.com/doi/abs/10.1002/glia.24676)
+
 __Analysis of Hyperexcitability in Hippocampal CA1 Pyramidal Neurons in a Rat Model of Autism Spectrum Disorder:__ 
 Contributed to the *data analysis* of a study examining the hyperexcitability of hippocampal CA1 pyramidal neurons in male offspring of rats exposed to valproic acid (VPA) during pregnancy, a widely used model for autism spectrum disorder (ASD). The research focused on understanding the involvement of the Ih channel current in modulating neuronal excitability, providing insights into potential mechanisms contributing to ASD-related symptoms [Published paper link](https://www.sciencedirect.com/science/article/abs/pii/S0006899318306218).
 
